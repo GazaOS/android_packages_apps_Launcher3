@@ -170,7 +170,7 @@
     <string name="show_quickspace_summary">Hiển thị trên đầu màn hình chính</string>
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
     <string name="quick_event_rom_intro_welcome">Chào mừng người dùng!</string>
-    <string name="quick_event_rom_intro_welcome_ext">Thời gian của crdroid!</string>
+    <string name="quick_event_rom_intro_welcome_ext">Thời gian của gazaOS!</string>
     <string-array name="welcome_message_variants">
         <item>Cảm ơn vì đã chọn chúng tôi</item>
         <item>Yêu thích chúng tôi? Gửi chúng tôi một cốc bia</item>
